@@ -14,9 +14,13 @@ I had the opportunity to work on a comprehensive **Finance and Supply chain anal
 
 - ⚙️ **Stored Procedures**: Designed and implemented high-performing stored procedures that significantly reduced data retrieval time from **15 seconds to just 7 seconds**. This enhancement improved system efficiency and elevated the overall user experience.
 - 
+- ![20250122072632](https://github.com/user-attachments/assets/f8841c4c-a877-453c-b403-3f761b089ec2)
+
+- 
 
 - 🛠️ **User-Defined Functions**: Developed custom SQL functions that optimized database operations, enhancing query efficiency by **15%** for streamlined data processing and analysis.
-- ![Uploading 20250122072624.png…]()
+  ![20250122072624](https://github.com/user-attachments/assets/84e1b2ff-1c24-4ad6-92ad-b5b8e0f54b17)
+
 
 
 - 📊 **Table Creation & Common Table Expressions**: Created and structured tables effectively, utilizing Common Table Expressions (CTEs) for better readability and organization of complex queries.
