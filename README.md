@@ -19,6 +19,8 @@ I had the opportunity to work on a comprehensive **Finance and Supply chain anal
 - 🔍 **Subqueries & Data Engineering**: Employed subqueries to simplify data retrieval processes and enhance the clarity of reports.
 
 - 📈 **Indexing & Views**: Focused on data engineering best practices by creating indexes and views, which further optimized query performance and improved data accessibility.
+- ![20250122103940](https://github.com/user-attachments/assets/ea5c06e2-068b-46c5-b765-4c5b6b7762f1)
+
 
 This project not only honed my SQL skills but also deepened my understanding of data engineering principles. I’m excited to continue exploring the world of data and look forward to applying these skills in future projects!
 
